@@ -1,24 +1,48 @@
 
-<!--
-  GitHub Profile README
-  Repository: sakthivel-rajendhran
--->
-
-<h1 align="center">Hi, I'm SAKTHIVEL R </h1>
-
-<h3 align="center">Aspiring Full Stack Developer | CSE Student</h3>
+<!-- Animated GitHub Profile Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9A6&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Building+Web+Applications;Learning+Modern+Technologies;Turning+Ideas+Into+Code" alt="Animated typing introduction" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:2563EB&height=220&section=header&text=Sakthivel%20R&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=18&animation=fadeIn"
+    width="100%"
+    alt="Sakthivel R - Full Stack Developer"
+  />
 </p>
+
+<!-- Animated Typing Introduction -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Digital+Solutions;Always+Learning+%26+Building"
+    alt="Animated typing introduction"
+  />
+</p>
+
+<!-- Social Links -->
 
 <p align="center">
   <a href="https://github.com/sakthivel-rajendhran">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
-  <a href="https://github.com/sakthivel-rajendhran?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Projects-00D9A6?style=for-the-badge&logo=github" alt="Explore Projects"/>
+  <a href="https://linkedin.com/in/sakthi-velr">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+  <a href="mailto:sakthivel.june03@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building meaningful digital experiences, one project at a time.</b>
 </p>
 
 ---
@@ -41,22 +65,61 @@ I enjoy exploring programming concepts, developing web applications, and learnin
 
 ## 🛠️ Technologies & Skills
 
-### Programming & Web Development
+## 🤖 AI Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript and Python"/>
+<p>
+  <a href="https://chatgpt.com/">
+    <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  </a>
+  <a href="https://claude.ai/">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Anthropic Claude"/>
+  </a>
+  <a href="https://gemini.google.com/">
+    <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  </a>
 </p>
 
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+<p>
+  <i>Leveraging AI tools for learning, coding, debugging, and building modern web applications.</i>
 </p>
 
-### Currently Exploring
+### 💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express and MongoDB"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### ⚛️ Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+</p>
+
+<p>
+  <i>Building, learning, and exploring new technologies every day.</i>
 </p>
 
 ---
@@ -65,148 +128,118 @@ I enjoy exploring programming concepts, developing web applications, and learnin
 
 Here are some projects from my GitHub repositories that demonstrate my programming fundamentals and development journey.
 
-### 🐍 Python Projects
+<p>
+  <a href="https://github.com/sakthivel-rajendhran">
+    <img
+      src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Repository"
+    />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧮 BMI Calculator</h3>
-      <p>A Python project for calculating Body Mass Index using height and weight inputs.</p>
-      <p><b>Technology:</b> Python</p>
-      <a href="https://github.com/sakthivel-rajendhran?tab=repositories">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🔐 Random Password Generator</h3>
-      <p>A utility that generates random passwords to explore Python programming and string operations.</p>
-      <p><b>Technology:</b> Python</p>
-      <a href="https://github.com/sakthivel-rajendhran?tab=repositories">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>💬 Text-Based ChatApp</h3>
-      <p>A text-based chat application project exploring communication and programming fundamentals.</p>
-      <p><b>Technology:</b> Python</p>
-      <a href="https://github.com/sakthivel-rajendhran?tab=repositories">View Repository</a>
-    </td>
-    <td>
-      <h3>📋 More Python Projects</h3>
-      <p>Explore my repositories for additional programming experiments and projects.</p>
-      <a href="https://github.com/sakthivel-rajendhran?tab=repositories">Explore All Projects</a>
-    </td>
-  </tr>
-</table>
+  ---
 
 ## 🌐 Web Development Projects
 
-<div align="center">
+### 🍽️ Feast Reclamation
+Surplus Food Rescue Network
 
-  <h3>🍽️ Feast Reclamation</h3>
-  <p><b>Surplus Food Rescue Network</b></p>
-  <p>A platform connecting food donors, volunteers, and NGOs to reduce food waste and distribute surplus food.</p>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  </p>
-  <p>
-    <a href="https://github.com/sakthivel-rajendhran">
-      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
+A platform connecting food donors, volunteers, and NGOs to reduce food waste.
 
-  ---
-
-  <h3>🎨 Avenix Core</h3>
-  <p><b>Creative Digital Studio</b></p>
-  <p>A digital studio platform showcasing creative services, projects, and digital experiences with project management capabilities.</p>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-  </p>
-  <p>
-    <a href="https://github.com/sakthivel-rajendhran">
-      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
-
-  ---
-
-  <h3>💻 Personal Portfolio</h3>
-  <p><b>Developer Portfolio Website</b></p>
-  <p>A personal website to showcase my profile, technical skills, projects, and development journey.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://github.com/sakthivel-rajendhran">
-      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
-
-  ---
-
-  <h3>🍔 DRS Smart Canteen</h3>
-  <p><b>Online Canteen Ordering System</b></p>
-  <p>A smart canteen application designed to simplify food ordering, menu management, and order tracking.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  </p>
-  <p>
-    <a href="https://github.com/sakthivel-rajendhran">
-      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
-
-  ---
-
-  <h3>🎓 Campus Compare</h3>
-  <p><b>College Comparison Platform</b></p>
-  <p>A student-focused platform designed to help users explore college information and compare their options.</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  </p>
-  <p>
-    <a href="https://github.com/sakthivel-rajendhran">
-      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-    </a>
-  </p>
-
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/sakthivel-rajendhran?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-00D9A6?style=for-the-badge&logo=github&logoColor=black"/>
+<p>
+  <a href="YOUR_FEAST_RECLAMATION_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Feast Reclamation Repository"/>
   </a>
 </p>
 
 ---
+
+### 🎨 Avenix Core
+Creative Digital Studio
+
+A digital studio showcasing creative services and digital experiences.
+
+<p>
+  <a href="YOUR_AVENIX_CORE_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Avenix Core Repository"/>
+  </a>
+</p>
+
 ---
 
-## 📈 GitHub Statistics
+### 💻 Personal Portfolio
+Developer Portfolio Website
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakthivel-rajendhran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+A personal website showcasing my profile, technical skills, and projects.
+
+<p>
+  <a href="YOUR_PORTFOLIO_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Repository"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivel-rajendhran&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+---
+
+### 🍔 DRS Smart Canteen
+Online Canteen Ordering System
+
+A smart canteen application for food ordering and order management.
+
+<p>
+  <a href="YOUR_DRS_CANTEEN_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DRS Smart Canteen Repository"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakthivel-rajendhran&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+---
+
+### 🎓 Campus Compare
+College Comparison Platform
+
+A student-focused platform for exploring and comparing colleges.
+
+<p>
+  <a href="YOUR_CAMPUS_COMPARE_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Campus Compare Repository"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Python Projects
+
+### 🧮 BMI Calculator
+
+A Python application for calculating Body Mass Index.
+
+<p>
+  <a href="YOUR_BMI_CALCULATOR_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View BMI Calculator Repository"/>
+  </a>
+</p>
+
+---
+
+### 🔐 Random Password Generator
+
+A Python utility for generating random passwords.
+
+<p>
+  <a href="YOUR_PASSWORD_GENERATOR_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Password Generator Repository"/>
+  </a>
+</p>
+
+---
+
+### 💬 Text-Based ChatApp
+
+A Python project exploring text-based communication.
+
+<p>
+  <a href="YOUR_CHATAPP_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ChatApp Repository"/>
+  </a>
 </p>
 
 ---
@@ -240,26 +273,20 @@ Here are some projects from my GitHub repositories that demonstrate my programmi
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/sakthivel-rajendhran">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://github.com/sakthivel-rajendhran?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-00D9A6?style=for-the-badge&logo=github" alt="Projects"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sakthivel-rajendhran&label=Profile%20Views&color=00D9A6&style=flat" alt="Profile views"/>
 </p>
 
+<!-- Animated Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:2563EB&height=120&section=footer" alt="Animated footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:2563EB&height=180&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=ffffff&fontAlignY=65&desc=Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Keep%20Growing&descAlignY=82&descSize=14&animation=fadeIn"
+    width="100%"
+    alt="Thank you for visiting my GitHub profile"
+  />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b><br/>
-  Keep learning. Keep building. Keep growing.
+  <b>Let's connect, collaborate, and build something amazing together! 🚀</b>
 </p>
